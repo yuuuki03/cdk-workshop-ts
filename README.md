@@ -1,4 +1,3 @@
-# private-handson-sqs-lambda-sample
 
 https://cdkworkshop.com/20-typescript.html
 
